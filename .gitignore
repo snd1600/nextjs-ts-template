@@ -1,0 +1,11 @@
+.next
+e2e/.output
+dist
+node_modules
+
+.DS_Store
+.pnpm-debug.log*
+
+next-env.d.ts
+*.tsbuildinfo
+.swc
